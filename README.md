@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, ReactJs**
 
-- 💬 Ask me about **HTML5 ,CSS3, JavaScript, ReactJS, Windows Installation,Sass,Laravel,PHP**
+- 💬 Ask me about **HTML5 ,CSS3, JavaScript, ReactJS, Windows Installation,Sass,Laravel,PHP**. 
 
 - 📫 How to reach me **mirmuhammatov.uz@gmail.com**
 
